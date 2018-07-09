@@ -1,0 +1,40 @@
+{
+  "name": "business-reporting",
+  "version": "1.0.0",
+  "description": "generate real time reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "test reporting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biosensors/business-reporting.git"
+  },
+  "keywords": [
+    "business",
+    "report",
+    "biosensors"
+  ],
+  "author": "Yadong Zhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biosensors/business-reporting/issues"
+  },
+  "homepage": "https://github.com/Biosensors/business-reporting#readme",
+  "dependencies": {
+    "Promise": "^1.0.5",
+    "activedirectory": "^0.7.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mssql": "^4.1.0",
+    "node-rfc": "^0.1.15",
+    "r3connect": "^1.1.0",
+    "winston": "^2.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "reload": "^2.3.0",
+    "yargs": "^11.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+bower_components
+node_modules
+/target/
+.project
+.DS_Store
+js/.DS_Store
+.vscode
+/deploy/
+/db-config/
+logs/
+dev_rfc.trc
+backend/config/conn-config*.json
