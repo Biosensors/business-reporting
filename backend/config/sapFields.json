@@ -1,0 +1,13 @@
+{
+    "INVENT_REPORT": {
+       "DONumber":"VBELN",
+       "DOCreationUser":"ERNAM",
+       "DOCreationDate":"ERDAT",
+       "ShipToCustomer":"KUNNR",
+       "Plant":"WERKS",
+       "WarehouseNo":"LGNUM",
+       "ShippingPoint":"VSTEL",
+       "PlannedGoodsDeliveryDate":"WADAT",
+       "DeliveryType":"VBTYP"
+    }
+}
