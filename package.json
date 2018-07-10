@@ -28,6 +28,7 @@
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "json2xls": "^0.1.2",
+    "jsonexport": "^2.2.0",
     "jsonfile": "^4.0.0",
     "mssql": "^4.1.0",
     "node-rfc": "^0.1.15",
